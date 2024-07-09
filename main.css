@@ -1,3 +1,25 @@
 body {
-  background-color: aliceblue;
+  background-color: #9BC5C9;
+}
+
+h1 {
+  color: crimson;
+}
+
+#lawnCare {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 5px solid green;
+  margin: 10px;
+}
+
+#ramsey {
+  font-family: 'Times New Roman', Times, serif;
+  border: 5px dashed blue;
+  margin: 10px;
+}
+
+#magic {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: 5px dotted purple;
+  margin: 10px;
 }
